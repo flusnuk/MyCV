@@ -238,3 +238,7 @@ body {
     font-size: 12px;
     align-items: center;
 }
+
+.my-work-experience-companys a{
+    text-decoration: none;
+}
